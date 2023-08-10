@@ -27,7 +27,6 @@
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
-              "src/serblink.ico",
               "src/assets"
             ],
             "styles": [
@@ -90,7 +89,6 @@
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",
             "assets": [
-              "src/serblink.ico",
               "src/assets"
             ],
             "styles": [
