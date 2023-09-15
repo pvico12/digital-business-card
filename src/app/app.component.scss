@@ -1,11 +1,27 @@
 .contact-download-button {
     text-align: center;
+    margin-bottom: 15px;
 }
 
 .contact-download-button a {
     background-color: rgb(85, 112, 209);
     text-decoration: none;
     color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.downloads-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.download-item {
+    text-decoration: none;
+    color: black;
+    margin-bottom: 5px;
+    background-color: rgb(85, 112, 209);
     padding: 10px;
     border-radius: 10px;
 }
